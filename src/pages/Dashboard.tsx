@@ -88,7 +88,7 @@ export const Dashboard = () => {
         <div className="bg-white rounded-lg shadow p-6">
           <div className="flex items-center justify-between">
             <div>
-              <h1>Test</h1>
+              <h1>Test v2</h1>
               <p className="text-sm font-medium text-gray-500">Total Projects</p>
               <p className="text-3xl font-bold text-gray-800">{projects.length || 8}</p>
             </div>
